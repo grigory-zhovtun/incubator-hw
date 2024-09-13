@@ -34,11 +34,7 @@ export const HW1 = () => {
 
 	return (
 		<div id={'hw01'}>
-<<<<<<< HEAD
-			{/*<UserList users={'НАЗВАНИЕ МАССИВА, КОТОРЫЙ МЫ ПЕРЕДАЕМ'} />*/}
-=======
 			<UserList users={users} />
->>>>>>> 938b289 (fix changes)
 		</div>
 	);
 };
